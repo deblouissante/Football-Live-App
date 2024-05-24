@@ -3,9 +3,7 @@
 This Flutter project is for my college assignment.
 
 # Football Live Score App
-![Football1](https://github.com/deblouissante/Football-Live-App/assets/162981389/ccd0130d-6580-4086-9350-a926475bdc38)
-
-![Football2](https://github.com/deblouissante/Football-Live-App/assets/162981389/15a77586-d0c2-41eb-874f-a59b0e46bdc5)
+![Football1](https://github.com/deblouissante/Football-Live-App/assets/162981389/ccd0130d-6580-4086-9350-a926475bdc38) ![Football2](https://github.com/deblouissante/Football-Live-App/assets/162981389/15a77586-d0c2-41eb-874f-a59b0e46bdc5)
 
 
 ## Getting Started
